@@ -1,0 +1,1332 @@
+{
+  "format": "lordly-class-animations",
+  "version": 1,
+  "sequences": [
+    {
+      "motion": 0,
+      "side": "player",
+      "loop": true,
+      "behind": false,
+      "body": "00-Idle/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "00-Idle/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "00-Idle/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "00-Idle/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 0,
+      "side": "enemy",
+      "loop": true,
+      "behind": false,
+      "body": "00-Idle/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "00-Idle/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "00-Idle/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "00-Idle/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 5,
+      "side": "player",
+      "loop": true,
+      "behind": false,
+      "body": "05-Advance/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "05-Advance/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "05-Advance/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "05-Advance/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 5,
+      "side": "enemy",
+      "loop": true,
+      "behind": false,
+      "body": "05-Advance/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "05-Advance/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "05-Advance/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "05-Advance/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 11,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "11-Return-to-formation/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "11-Return-to-formation/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "11-Return-to-formation/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "11-Return-to-formation/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 11,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "11-Return-to-formation/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "11-Return-to-formation/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "11-Return-to-formation/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "11-Return-to-formation/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 17,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "17-Hit-recoil/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "17-Hit-recoil/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "17-Hit-recoil/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "17-Hit-recoil/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 17,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "17-Hit-recoil/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "17-Hit-recoil/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "17-Hit-recoil/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "17-Hit-recoil/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 18,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "18-Recover-from-hit/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "18-Recover-from-hit/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "18-Recover-from-hit/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "18-Recover-from-hit/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 18,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "18-Recover-from-hit/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "18-Recover-from-hit/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "18-Recover-from-hit/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "18-Recover-from-hit/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 21,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "21-Guard/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "21-Guard/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "21-Guard/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "21-Guard/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 21,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "21-Guard/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "21-Guard/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "21-Guard/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "21-Guard/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 22,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "22-Recover-from-guard/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "22-Recover-from-guard/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "22-Recover-from-guard/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "22-Recover-from-guard/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 22,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "22-Recover-from-guard/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "22-Recover-from-guard/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "22-Recover-from-guard/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "22-Recover-from-guard/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 23,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "23-Dodge/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "23-Dodge/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "23-Dodge/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "23-Dodge/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 23,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "23-Dodge/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "23-Dodge/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "23-Dodge/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "23-Dodge/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 24,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "24-Recover-from-dodge/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "24-Recover-from-dodge/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "24-Recover-from-dodge/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "24-Recover-from-dodge/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 24,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "24-Recover-from-dodge/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "24-Recover-from-dodge/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "24-Recover-from-dodge/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "24-Recover-from-dodge/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 29,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "29-Death/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "29-Death/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "29-Death/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "29-Death/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 29,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "29-Death/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "29-Death/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "29-Death/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "29-Death/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 34,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "34-Sleep/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "34-Sleep/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "34-Sleep/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "34-Sleep/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 34,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "34-Sleep/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "34-Sleep/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "34-Sleep/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "34-Sleep/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 35,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "35-Wake-up/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "35-Wake-up/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "35-Wake-up/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "35-Wake-up/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 35,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "35-Wake-up/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "35-Wake-up/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "35-Wake-up/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "35-Wake-up/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 32,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "32-Paralysis/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "32-Paralysis/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "32-Paralysis/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "32-Paralysis/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 32,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "32-Paralysis/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "32-Paralysis/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "32-Paralysis/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "32-Paralysis/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 33,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "33-Recover-from-paralysis/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "33-Recover-from-paralysis/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "33-Recover-from-paralysis/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "33-Recover-from-paralysis/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 33,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "33-Recover-from-paralysis/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "33-Recover-from-paralysis/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "33-Recover-from-paralysis/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "33-Recover-from-paralysis/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 38,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "38-Petrification/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "38-Petrification/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "38-Petrification/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "38-Petrification/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 38,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "38-Petrification/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "38-Petrification/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "38-Petrification/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "38-Petrification/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 39,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "39-Recover-from-petrification/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "39-Recover-from-petrification/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "39-Recover-from-petrification/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "39-Recover-from-petrification/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "motion": 39,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "39-Recover-from-petrification/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "39-Recover-from-petrification/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "39-Recover-from-petrification/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "39-Recover-from-petrification/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "attack": 40,
+      "side": "player",
+      "loop": false,
+      "behind": false,
+      "body": "42-T2-Breath/Player_Left/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "42-T2-Breath/Player_Left/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "42-T2-Breath/Player_Left/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "42-T2-Breath/Player_Left/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "attack": 40,
+      "side": "enemy",
+      "loop": false,
+      "behind": false,
+      "body": "42-T2-Breath/Enemy_Right/Body/Timed.zip",
+      "weapons": [
+        {
+          "path": "42-T2-Breath/Enemy_Right/Leaf_Spear/Timed.zip",
+          "items": [
+            73,
+            74,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "path": "42-T2-Breath/Enemy_Right/Bronze_Partisan/Timed.zip",
+          "items": [
+            75
+          ]
+        },
+        {
+          "path": "42-T2-Breath/Enemy_Right/Tide_Trident/Timed.zip",
+          "items": [
+            76
+          ]
+        }
+      ]
+    }
+  ]
+}
