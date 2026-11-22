@@ -1,15 +1,10 @@
 # OB64 Animations
 
-Mounted Flarebrass combat sprites for the Lordly Caliber editor. Each of the 17 sequence folders starts with its selector number. Entry and recovery are separate selections, including Sleep (34) and Wake up (35).
+Combat sprite sequences for the Lordly Caliber editor are organized by class. Open a class folder, choose a numbered animation sequence, then select the camera view and artwork layer you want to import. The number at the start of each sequence folder is its editor selector.
 
 ## Import a sequence
 
-1. Choose a sequence under `Flarebrass`, then `Player_Left` or `Enemy_Right`.
-2. Open `Body` for the mounted rider and dragon. For equipment artwork, open the matching `Leaf_Spear`, `Bronze_Partisan`, or `Tide_Trident` folder.
-3. Import the numbered PNGs together to set your own frame durations. Set the anchor to **(50, 75)** from the top left of the **104 × 96** canvas. To load the supplied frame order, timing, and anchor together, import that folder's **Timed.zip** instead.
+- **Use the supplied timing.** Import the layer's `Timed.zip` to load its frames, durations, and anchor together.
+- **Set your own timing.** Select the numbered PNGs in the layer folder and import them together. Set the anchor to the coordinates listed in the class notes or in the ZIP's `animation.json`.
 
-The editor converts the supplied 60 Hz schedule to 30 Hz preview steps and may merge adjacent identical images. Check odd-length holds on the timeline if exact game timing matters. Use the same timing and anchor for the body and its equipment. The chosen spear draws over the body. Whole-animation replacement flattens the imported artwork, so interchangeable equipment needs a separate equipment layer in the destination unit.
-
-## Art credits
-
-The dragon and rider were rendered from Fiery Dragon King and Dragonwing Adventurer models created with Meshy. The mounted gait adapts the T-Rex run from Quaternius's [Animated LowPoly Dinosaurs](https://quaternius.itch.io/animated-lowpoly-dinosaurs) (CC0).
+Use matching views, anchors, and timing when combining body and equipment layers. Frame holds in the ZIP are measured at 60 Hz. The editor rounds them to 30 Hz preview steps and can merge identical neighboring frames.
