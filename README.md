@@ -4,7 +4,7 @@ Combat sprite packs for the Lordly Caliber editor are organized by class. Choose
 
 ## Import a class pack
 
-Download the ZIP linked in the class README and extract it. The optional `class-animations.json` sits beside the numbered sequence folders. It describes the action, side, body track, equipment mappings, and playback flags for a class-pack importer. Keep the extracted folders together so the relative paths resolve.
+Choose your class ZIP from [downloads](downloads/) and extract it. The optional `class-animations.json` sits beside the numbered sequence folders. It describes the action, side, body track, equipment mappings, and playback flags for a class-pack importer. Keep the extracted folders together so the relative paths resolve.
 
 ## Import one track by hand
 
