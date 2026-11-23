@@ -14,8 +14,12 @@ Emit `class-animations.json` at the class root from the same phase definitions, 
 - Set `behind` explicitly. For false, draw the weapon over the body and remove pixels occluded by the posed body, hand, or mount. Use true when the whole equipment track draws behind the body. Preserve the grip in the body track.
 - Retain numbered sequence folders, loose transparent PNGs, and each track's `Timed.zip`. Keep `lordly-frame-sequence` version 1 and exact 60 Hz holds in each ZIP. All tracks for an entry share the canvas, anchor, frame order, and holds. Preserve an occurrence when any layer changes, even if the body repeats.
 
+## Native-resolution WebM previews
+
+Place `Player_Left.webm` and `Enemy_Right.webm` directly in every numbered animation folder and include both in the downloadable class ZIP. Each video shows its own combat camera with the registered body and default equipment composited in game order. Use the track's native canvas, one complete playback, and one frame per 60 Hz tick, including held frames. Decode the archived videos and verify dimensions, frame count, timestamps and pose order against the timed tracks.
+
 ## Validate and distribute
 
 Resolve every index path from the class folder. Check the ZIP members and manifest, decode every numbered PNG, and compare the loose and archived images and frame holds against the source. Verify both views, unique action/side/mode assignments, loop flags, item IDs and appearance slots. Composite every weapon in both views during Idle, an attack, and Death when available. Inspect grip, occlusion and registration.
 
-Publish one downloadable ZIP per class with the class folder as its only top-level directory. Check that the extracted index resolves with the original workspace unavailable. Keep authoring scenes, private paths, retail command dumps, and review renders outside the public pack.
+Publish one downloadable ZIP per class with the class folder as its only top-level directory. Check that the extracted index resolves with the original workspace unavailable. Keep authoring scenes, private paths, retail command dumps, and full-size working renders outside the public pack.
