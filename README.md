@@ -8,7 +8,7 @@ Choose your class ZIP from [downloads](downloads/) and extract it. The optional 
 
 ## Preview an animation
 
-In the Ronin pack, open `Player_Left.webm` or `Enemy_Right.webm` directly inside any numbered animation folder. Each video shows the body and katana together at 112 × 104 and 60 frames per second. One video frame equals one game tick. The 28 Ronin sequences each contain 9–19 pose samples. Longer sequences have 18 or 19 samples, including the return to the starting guard on attacks. Enable repeat in your player to inspect a walk cycle.
+In the Ronin pack, open `Player_Left.webm` or `Enemy_Right.webm` directly inside any numbered animation folder. Each video shows the body and katana together at 112 × 104 and 60 frames per second. One video frame equals one game tick. The 28 Ronin sequences each contain 9–20 pose samples. Enable repeat on either video in `05-Advance` to watch the 20-pose charge over its 32-tick cycle.
 
 ## Import one track by hand
 
@@ -22,7 +22,7 @@ Sequence folder numbers identify donor pose selectors. The class index uses game
 
 | Class | Source |
 | --- | --- |
-| Ronin | [Ronin r07](Blender-Sources/Ronin/Ironclad-Ronin-r07.blend) includes the r06 two-handed grip, revised chop elbow, and fitted hip plates in both armor palettes. |
+| Ronin | [Ronin r10](Blender-Sources/Ronin/Ironclad-Ronin-r10.blend) includes the two-handed katana charge and revised trailing-foot extension. Advance adapts the sword run from [Quaternius’s Animated Knight](https://quaternius.itch.io/lowpoly-animated-knight). |
 | Crone | [Crone r05](Blender-Sources/Crone/Griselda-Crone-r05.blend) includes the silver hair and revised shoulder cloak. |
 | Dragon Rider | [Eleven action scenes](Blender-Sources/Dragon-Rider/) cover the 17 published sequences. |
 
